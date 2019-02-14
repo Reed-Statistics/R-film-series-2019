@@ -6,6 +6,19 @@ Come for the talks, stay for the follow-up conversation (and free pizza).
 
 * * *
 
+## Schedule
+
+- [Creativity and Tidy Timeseries - February 15th](#creativity-and-tidy-timeseries---february-15th)
+- [Animated Graphics - February 22nd](#animated-graphics---february-22nd)
+- [How to Teach Programming - March 1st](#how-to-teach-programming---march-1st)
+- [Spatial Statistics and Mapping - March 8th](#spatial-statistics-and-mapping---march-8th)
+- [The Unreasonable Effectiveness of Public Work - March 15th](#the-unreasonable-effectiveness-of-public-work---march-15th)
+- [Case Studies in Social Science - March 22nd](#case-studies-in-social-science---march-22nd)
+- [Scientific Reproducibility - April 5th](#scientific-reproducibility---april-5th)
+- [Writing Better R - April 12th](#writing-better-r---april-12th)
+
+* * *
+
 ### Creativity and Tidy Timeseries - February 15th
 [Cultivating creativity in data work](https://resources.rstudio.com/rstudio-conf-2019/cultivating-creativity-in-data-work) - Hilary Parker  
 Traditionally, statistical training has focused primarily on mathematical derivations, proofs of statistical tests, and the general correctness of what methods to use for certain applications. However, this is only one dimension of the practice of doing analysis. Other dimensions include the technical mastery of a language and tooling system, and most importantly the construction of a convincing narrative tailored to a specific audience, with the ultimate goal of them accepting the analysis. These "softer" aspects of analysis are difficult to teach, perhaps more so when the field is framed as mathematics and often housed in mathematics departments. In this talk, I discuss an alternative framework for viewing the field, borrowing upon the past work in other fields such as design. Looking forward, we as a field can borrow from these fields to cultivate and hone the creative lens so necessary to the success of applied work.
