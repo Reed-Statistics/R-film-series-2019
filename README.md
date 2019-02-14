@@ -1,3 +1,5 @@
+![R Film Series](R-graphic.png)
+
 # R Film Series 2019
 
 Please join Fridays from 12 - 1 pm this spring for screenings of excellent talks from the recent Rstudio::conf. We'll be meeting in ETC 105B. Many/most of these talks have useful gems even to folks with only limited exposure to programming and R.
